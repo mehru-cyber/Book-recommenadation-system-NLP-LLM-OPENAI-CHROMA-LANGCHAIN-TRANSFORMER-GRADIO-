@@ -1,0 +1,2 @@
+# Book-recommenadation-system-NLP-LLM-OPENAI-CHROMA-LANGCHAIN-TRANSFORMER-GRADIO-
+ AI Engineer specializing inBuilding an end-to-end book recommender powered by NLP and LLMs. Leveraging the OpenAI API, Hugging Face, LangChain, and transformer architectures, I designed a scalable pipeline incorporating data cleaning, text classification, zero-shot learning, sentiment analysis, fine-tuning, and semantic search using Chroma.
